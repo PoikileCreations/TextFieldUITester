@@ -99,13 +99,13 @@
 		ADD72A1D26C2370000D19482 /* TextFieldTester */ = {
 			isa = PBXGroup;
 			children = (
+				ADD72A2C26C2370400D19482 /* Info.plist */,
 				ADD72A1E26C2370000D19482 /* AppDelegate.swift */,
 				ADD72A2026C2370000D19482 /* SceneDelegate.swift */,
 				ADD72A2226C2370000D19482 /* ViewController.swift */,
-				ADD72A2426C2370000D19482 /* Main.storyboard */,
 				ADD72A2726C2370400D19482 /* Assets.xcassets */,
 				ADD72A2926C2370400D19482 /* LaunchScreen.storyboard */,
-				ADD72A2C26C2370400D19482 /* Info.plist */,
+				ADD72A2426C2370000D19482 /* Main.storyboard */,
 			);
 			path = TextFieldTester;
 			sourceTree = "<group>";
